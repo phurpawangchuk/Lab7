@@ -45,6 +45,7 @@ const Course = () => {
     }));
   };
 
+  
   const handleCourseSave = async (event) => {
     event.preventDefault();
     try {
